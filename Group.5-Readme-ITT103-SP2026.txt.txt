@@ -1,0 +1,41 @@
+Authors: Danielle Rowe (20257134), Gyana Brown (20256703), Taariq Williams (20257295)
+Date Created: April 10, 2026
+Course: ITT103
+Github Public URL to code:  https://github.com/20257134/Programming-Techniques.git
+
+Purpose:
+The programme is a Point of Sale system designed for a small retail store business that sells everyday essentials. It allows for cashiers to process transactions by adding items to a shopping cart, remove items, view the cart, calculate the total bill (including tax), accept payments, and generate a receipt.
+
+The features of the program is as followed:
+
+A product catalog with a total of 20 items
+Add items to cart option
+Remove items from cart
+View cart
+Checkout comes with a 10% tax on each purchase
+5% discount for purchases above $5000
+Receipt generation
+Low stock alert
+Multiple transactions
+
+How to run it :
+Click on or copy and paste into the web browser the Github link to access code.
+Copy the code.
+Open a respected python IDE of your choice.
+Paste the code into the IDE.
+Run code.
+
+Assumptions:
+Only one cashier is using the application at any given time.
+Prices and stock are predefined and cannot be modified by user during programme execution.
+That payment is made in one single transaction and does not support split payment.
+The cashier follows the right workflow, for example, adds items to the cart before attempting checkout.
+The customer has cash and not just a bank card.
+
+
+Limitations:
+No graphical interface only command line interface.
+No present storage of data.
+No barcode scanning functionality.
+Lack of advanced payment methods like bank cards or split payment.
+System does not include reporting features such as daily sales summaries.
